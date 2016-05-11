@@ -1,0 +1,84 @@
+* {
+	box-sizing: border-box;
+}
+
+.nav-item {
+	font-family: 'Special Elite', cursive;
+}
+
+
+.jumbotron {
+	max-width: 1200px;
+	background-image: url("./../images/table.jpg");
+	margin-bottom: 2px;
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
+
+
+.display-3 {
+	font-family: 'Special Elite', cursive;
+	font-weight: 400;
+	color: white;
+	text-align: center;
+	font-size: 5.5rem;
+}
+
+.lead {
+	text-align: center;
+	font-family: 'Homemade Apple', cursive;
+	font-weight: 400;
+	color: white;
+	font-size: 1.5rem;
+	background-color: rgba(14, 0, 0, 0.16);
+	background-clip: content-box;
+}
+
+.divider{
+	height: 2rem;
+	color: black;
+}
+
+main {
+	font-family: 'Special Elite', cursive;
+	text-align: center;
+}
+
+footer h5 {
+	font-family: 'Special Elite', cursive;
+	padding: 2rem;
+}
+
+.footerthing {
+	border-top: 1rem solid #3e2c5a;
+	text-align: center;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+
+.menuback {
+	max-width: 1200px;
+	background-image: url("./../images/table.jpg");
+	margin-bottom: 2px;
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
+
+.menu {
+	font-family: 'Special Elite', cursive;
+	background-color: rgba(221, 212, 231, 0.9);
+	width: 50%;
+	padding: 2rem;
+}
+
+.foodtitle {
+	weight: bold;
+	margin-bottom: 0.1rem;
+	margin-top: 1rem;
+}
+
+.fooddescrip {
+		font-family: 'Homemade Apple', cursive;
+		color: #3e2c5a;
+
+	}
